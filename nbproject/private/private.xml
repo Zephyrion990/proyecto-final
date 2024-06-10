@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/modelo/Comic.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/modelo/Manga.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/DevolucionController.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/ComicDAO.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/TablaBusqueda.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/InicioSesion.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/InicioUsuario.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/BiblotecaAdmin.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/UsuarioDAO.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/PrestamoDAO.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/InicioUsuarioAdmin.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/Perfil.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/LibroDAO.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/BiblotecaControllerAdmin.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/MangaDAO.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/main.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/AdminEditarLibro.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/modelo/Usuario.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/admWindow.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/Bibloteca.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/NovelaDAO.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/Registro.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/ControlUsuarioInicio.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/vista/Devolucion.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/BibliotecaController.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/modelo/Prestamo.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/AdminLibroController.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/ControlUsuario.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/controlador/Conexion.java</file>
+            <file>file:/C:/Users/r3sn0/OneDrive/Escritorio/Proyecto/Bibloteca/src/com/bibloteca/modelo/Libro.java</file>
+        </group>
+    </open-files>
+</project-private>
